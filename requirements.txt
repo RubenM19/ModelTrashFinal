@@ -5,3 +5,4 @@ uvicorn
 pillow
 pydantic
 scikit-learn
+joblib
